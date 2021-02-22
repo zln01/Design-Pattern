@@ -1,4 +1,2 @@
-# TavukDunyasi
-
 #Design Pattern Project
  
